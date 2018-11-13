@@ -17,9 +17,9 @@
             symbol: 'doge',
             addressTypes: {prod: ['1e', '16'], testnet: ['71', 'c4']}
         },{
-            name: 'aleph',
-            symbol: 'ale',
-            addressTypes: {prod: ['23', '55'], testnet: ['6f', 'c4']}
+            name: 'bitcoinfinal',
+            symbol: 'btcf',
+            addressTypes: {prod: ['25', '3J'], testnet: ['6f', 'c4']}
         },{
             name: 'beavercoin',
             symbol: 'bvc',

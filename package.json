@@ -14,13 +14,13 @@
     "browser",
     "nodejs"
   ],
-  "version": "0.2.0",
-  "author": "Aziz Jalel",
-  "homepage": "https://github.com/Aiden-aiden/wallet-address-validator",
+  "version": "0.1.0",
+  "author": "Syafiq Det",
+  "homepage": "https://github.com/undead93/wallet-address-validator",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aiden-aiden/wallet-address-validator.git"
+    "url": "https://github.com/undead93/wallet-address-validator.git"
   },
   "main": "src/wallet_address_validator",
   "engines": {

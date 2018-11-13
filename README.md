@@ -1,7 +1,7 @@
 # wallet-address-validator
 Simple wallet address validator for validating Bitcoin and other altcoins addresses in **Node.js and browser**. 
 
-Updated 6/19/2017 - Added Aleph/ALE Validation
+Updated 6/19/2017 - Added BitcoinFinal/BTCF Validation
 
 Forked from [ryanralph/altcoin-address](https://github.com/ryanralph/altcoin-address).
 
