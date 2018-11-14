@@ -19,7 +19,7 @@
         },{
             name: 'bitcoinfinal',
             symbol: 'btcf',
-            addressTypes: {prod: ['19', '55'], testnet: ['6f', 'c4']}
+            addressTypes: {prod: ['19', '55'], testnet: ['19', 'c4']}
         },{
             name: 'beavercoin',
             symbol: 'bvc',
